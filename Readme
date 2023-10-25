@@ -10,6 +10,7 @@ The citation for this algorithm is:
 Yangjing Zhang, Ning Zhang, Defeng Sun, and Kim Chuan Toh, 
 “An efficient Hessian based algorithm for solving large-scale sparse group Lasso problems”, Mathematical Programming 179 (2020) 223--263.
 
+Please unzip the tensor_toolbox folder before running the code.
 
 For demonstration purposes, you may run 
 
